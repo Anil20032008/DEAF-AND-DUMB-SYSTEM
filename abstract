@@ -1,0 +1,33 @@
+The real time sign language is important  
+for people that have hearing and speaking  
+deficiency generally called Deaf And Mute. It  
+is the sole mode of communication for such  
+people to convey their messages and it  
+becomes vital for people to know their  
+language. This paper proposes the tactic or  
+algorithm for an application which might help in  
+recognizing the various signs which is  
+named Indian real time sign language. The  
+images are of the palm side of right and left and  
+are loaded at runtime. The method has been  
+developed with reference to single user. The real  
+time images are going to be captured  
+first then stored in directory and on recently  
+captured image and have extraction  
+will happen to spot which sign has been  
+articulated by the user through keras sequential  
+model algorithm. The comparisons are going to  
+be performed behind then after comparison the  
+result are going to be produced in accordance  
+through matched key points from the input image  
+to the image stored for a specific letter already in  
+the directory or the database the outputs for the  
+following can be seen in below sections. There  
+are 26 signs in Indian Sign Language  
+corresponding to each alphabet out which the  
+proposed algorithm provided with 95% accurate  
+results for 9 alphabets with their images captured  
+at every possible angle and distance i.e. for every  
+alphabet even if have approximately 5 images at  
+different angles and distances then the algorithm  
+is working accurately for 45 types of inputs.
